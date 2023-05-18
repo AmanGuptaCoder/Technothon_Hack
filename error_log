@@ -1,0 +1,372 @@
+[01-Mar-2023 05:25:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:25:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:26:10 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/worldeng/public_html/globalbloodbanking.ml/login.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 51
+[01-Mar-2023 05:26:22 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:26:41 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:26:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/worldeng/public_html/globalbloodbanking.ml/login.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 51
+[01-Mar-2023 05:27:37 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:27:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/worldeng/public_html/globalbloodbanking.ml/login.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 51
+[01-Mar-2023 05:28:04 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:28:15 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/worldeng/public_html/globalbloodbanking.ml/login.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 51
+[01-Mar-2023 05:29:24 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:29:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 52
+[01-Mar-2023 05:29:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:36:03 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:40:31 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:40:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 05:42:00 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[01-Mar-2023 05:42:31 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 06:45:56 UTC] PHP Warning:  file_get_contents(https://3ff03eccff14.ngrok.io/cervicalcancer/): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 559
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Hinselmann' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 569
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Hinselmann' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 573
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Cytology' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 577
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Cytology' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 581
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Schiller' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 584
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Schiller' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 588
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Biopsy' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 591
+[01-Mar-2023 06:45:56 UTC] PHP Notice:  Trying to get property 'Biopsy' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/index.php on line 595
+[01-Mar-2023 07:04:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 07:11:23 UTC] PHP Notice:  Undefined index: gender in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 517
+[01-Mar-2023 07:17:24 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:27 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:30 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:31 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:32 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:41 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:43 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:44 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:45 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:46 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:48 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:50 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:17:54 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:18:01 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:19:28 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:19:29 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:19:30 UTC] PHP Parse error:  syntax error, unexpected ''regular_periods'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 569
+[01-Mar-2023 07:20:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 607
+[01-Mar-2023 07:20:50 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:20:50 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:21:01 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:21:01 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:22:14 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 587
+[01-Mar-2023 07:22:14 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 07:22:14 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 07:22:14 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:22:14 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:25:30 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 587
+[01-Mar-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:28:36 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 587
+[01-Mar-2023 07:28:36 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 07:28:36 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 07:28:36 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:28:36 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:30:07 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 587
+[01-Mar-2023 07:30:07 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 07:30:07 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 07:30:07 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 613
+[01-Mar-2023 07:30:07 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:31:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:31:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:35:48 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:35:48 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 578
+[01-Mar-2023 07:36:28 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 549
+[01-Mar-2023 07:36:28 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 558
+[01-Mar-2023 07:36:28 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 562
+[01-Mar-2023 07:36:28 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:36:28 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 578
+[01-Mar-2023 07:37:13 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 549
+[01-Mar-2023 07:37:13 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 558
+[01-Mar-2023 07:37:13 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 562
+[01-Mar-2023 07:37:13 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 574
+[01-Mar-2023 07:37:13 UTC] PHP Notice:  Trying to get property 'pcos' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 578
+[01-Mar-2023 07:54:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:54:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 07:54:51 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 07:54:51 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 07:54:51 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 07:55:29 UTC] PHP Warning:  file_get_contents(https://d3c9-43-230-198-50.in.ngrok.io/heart): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 07:55:29 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 07:55:29 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 08:00:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 08:01:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 617
+[01-Mar-2023 08:03:05 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 08:03:05 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 08:03:05 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 08:07:14 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 551
+[01-Mar-2023 08:07:14 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 08:07:14 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 08:07:47 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 551
+[01-Mar-2023 08:07:47 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 594
+[01-Mar-2023 08:07:47 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 598
+[01-Mar-2023 08:09:40 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 08:09:40 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 08:09:40 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 08:10:32 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 08:10:32 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 08:10:32 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 08:11:56 UTC] PHP Warning:  file_get_contents(https://heart-disease-techblitz.herokuapp.com/heart): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 550
+[01-Mar-2023 08:11:56 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 593
+[01-Mar-2023 08:11:56 UTC] PHP Notice:  Trying to get property 'prediction' of non-object in /home/worldeng/public_html/globalbloodbanking.ml/aiTools.php on line 597
+[01-Mar-2023 08:12:31 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 08:12:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 52
+[01-Mar-2023 08:12:38 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[01-Mar-2023 08:12:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 17
+[01-Mar-2023 08:12:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[01-Mar-2023 08:35:29 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 08:40:07 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[01-Mar-2023 09:00:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 09:01:36 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[01-Mar-2023 09:01:44 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[01-Mar-2023 09:23:08 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 11:00:37 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[01-Mar-2023 11:05:17 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[01-Mar-2023 11:22:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 09:26:28 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[13-Mar-2023 09:26:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 09:27:29 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[13-Mar-2023 09:27:39 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[13-Mar-2023 09:27:49 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[13-Mar-2023 09:57:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[13-Mar-2023 09:57:58 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 09:58:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[13-Mar-2023 10:01:15 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 10:01:42 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[13-Mar-2023 10:01:55 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 10:05:01 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 10:15:51 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Mar-2023 10:16:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[15-Mar-2023 20:39:14 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[15-Mar-2023 20:41:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[15-Mar-2023 20:49:39 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[15-Mar-2023 20:51:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 02:07:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 02:07:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 12:52:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[16-Mar-2023 12:52:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 12:53:05 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 13:07:46 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 13:07:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 52
+[16-Mar-2023 13:07:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 13:07:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 17
+[16-Mar-2023 13:08:09 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 13:08:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 52
+[16-Mar-2023 13:08:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 13:08:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 52
+[16-Mar-2023 13:08:23 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 13:08:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 17
+[16-Mar-2023 13:08:52 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 13:56:51 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 13:59:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[16-Mar-2023 14:00:11 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[16-Mar-2023 14:00:26 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 14:00:46 UTC] PHP Notice:  Undefined index: id in /home/worldeng/public_html/globalbloodbanking.ml/patientDashboard.php on line 5
+[16-Mar-2023 14:04:51 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[16-Mar-2023 14:19:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[20-Mar-2023 18:03:28 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[20-Mar-2023 18:03:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[20-Mar-2023 18:04:14 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[20-Mar-2023 18:04:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[20-Mar-2023 18:04:21 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[12-Apr-2023 21:50:00 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[13-Apr-2023 11:11:10 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[18-Apr-2023 05:55:22 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[18-Apr-2023 05:55:28 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[18-Apr-2023 05:55:50 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:21:18 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:21:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:26:16 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:26:32 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[25-Apr-2023 13:26:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[25-Apr-2023 13:40:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:41:41 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[25-Apr-2023 13:42:05 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[25-Apr-2023 14:06:40 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[25-Apr-2023 14:13:02 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[26-Apr-2023 15:54:45 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[26-Apr-2023 15:54:54 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[26-Apr-2023 15:59:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[26-Apr-2023 16:02:57 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[27-Apr-2023 18:53:55 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[27-Apr-2023 19:09:17 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[27-Apr-2023 20:53:04 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[27-Apr-2023 20:53:17 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:07:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 15:07:50 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:08:00 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:08:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:09:04 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:27:36 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 15:27:41 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 15:50:39 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 17:12:19 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:12:26 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 17:24:36 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:24:49 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 17:31:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:32:21 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:34:37 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:36:49 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:36:59 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:37:05 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 17:38:04 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:38:27 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:39:27 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:43:37 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 17:47:29 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 17:58:22 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 18:04:07 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 18:04:29 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 18:04:44 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 18:05:36 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 18:28:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 18:28:57 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 19:30:31 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 19:30:39 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 19:49:10 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 19:49:17 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 19:59:54 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[28-Apr-2023 19:59:58 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 20:02:34 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 20:05:15 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[28-Apr-2023 20:23:57 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:24:02 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 20:50:27 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:50:36 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 20:51:19 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:51:20 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:51:22 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:51:24 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 20:51:25 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[28-Apr-2023 20:51:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[28-Apr-2023 20:51:52 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 02:47:25 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 02:47:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 02:48:02 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 02:48:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 02:48:51 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[29-Apr-2023 02:49:09 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 04:20:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 04:21:01 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 04:26:01 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 04:26:07 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 04:28:09 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 05:54:40 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[29-Apr-2023 06:03:35 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[29-Apr-2023 06:03:50 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 06:04:15 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:04:23 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:04:38 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:04:51 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:06:41 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 06:06:45 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:23:09 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[29-Apr-2023 06:25:28 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[29-Apr-2023 06:25:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[29-Apr-2023 06:34:18 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 06:38:32 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 06:38:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 35
+[29-Apr-2023 06:39:44 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[29-Apr-2023 06:44:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[29-Apr-2023 06:45:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[30-Apr-2023 06:15:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[30-Apr-2023 06:16:08 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[30-Apr-2023 06:16:20 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[30-Apr-2023 06:16:23 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[30-Apr-2023 06:17:14 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[30-Apr-2023 06:30:47 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[30-Apr-2023 06:33:23 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[03-May-2023 18:49:43 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[03-May-2023 18:51:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[03-May-2023 18:52:53 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[03-May-2023 18:53:06 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[03-May-2023 18:59:52 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/signup.php on line 55
+[03-May-2023 19:00:05 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[04-May-2023 13:40:38 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 45
+[04-May-2023 13:43:42 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[04-May-2023 13:43:44 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[04-May-2023 13:43:48 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[04-May-2023 13:43:56 UTC] PHP Notice:  Undefined index: pass in /home/worldeng/public_html/globalbloodbanking.ml/login.php on line 10
+[07-May-2023 09:45:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worldeng_health'@'localhost' (using password: YES) in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 6
+[07-May-2023 09:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mqsqli_connect_error() in /home/worldeng/public_html/globalbloodbanking.ml/config.php:8
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/signup.php(32): require_once()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 8
+[07-May-2023 09:45:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worldeng_health'@'localhost' (using password: YES) in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 6
+[07-May-2023 09:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mqsqli_connect_error() in /home/worldeng/public_html/globalbloodbanking.ml/config.php:8
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/signup.php(32): require_once()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 8
+[07-May-2023 09:45:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worldeng_health'@'localhost' (using password: YES) in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 6
+[07-May-2023 09:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mqsqli_connect_error() in /home/worldeng/public_html/globalbloodbanking.ml/config.php:8
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/signup.php(32): require_once()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 8
+[09-May-2023 15:54:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worldeng_health'@'localhost' (using password: YES) in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 6
+[09-May-2023 15:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mqsqli_connect_error() in /home/worldeng/public_html/globalbloodbanking.ml/config.php:8
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/signup.php(52): require_once()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 8
+[15-May-2023 08:15:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worldeng_health'@'localhost' (using password: YES) in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 6
+[15-May-2023 08:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mqsqli_connect_error() in /home/worldeng/public_html/globalbloodbanking.ml/config.php:8
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/signup.php(52): require_once()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/config.php on line 8

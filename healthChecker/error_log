@@ -1,0 +1,60 @@
+[05-May-2023 06:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
+[05-May-2023 06:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php:55
+Stack trace:
+#0 /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/index.php(30): TokenGenerator->loadToken()
+#1 {main}
+  thrown in /home/worldeng/public_html/globalbloodbanking.ml/healthChecker/token_generator.php on line 55
